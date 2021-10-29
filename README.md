@@ -10,4 +10,5 @@ Do whatever you want, test it, finish my work, fix bugs.
 
 # Why do I upload this
 Maybe other people can learn something from it, or test stuff with it
+Also I didn't wanted my work to be completely forgotten or deleted.
 
